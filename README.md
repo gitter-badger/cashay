@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/mattkrick/cashay.svg?branch=master)](https://travis-ci.org/mattkrick/cashay)
 
 # Cashay
+
+[![Join the chat at https://gitter.im/mattkrick/cashay](https://badges.gitter.im/mattkrick/cashay.svg)](https://gitter.im/mattkrick/cashay?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Relay for the rest of us
 
 ## Installation
